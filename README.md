@@ -5,6 +5,7 @@ The i64 files for Bedrock Dedicated Server and Windows Client are in [FloppyDolp
 
 The version sorting in Releases is not necessarily from newest to oldest. Below are the Tags sorted from newest to oldest
 
+- [1.21.93.1](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.93.1)
 - [1.21.92.1](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.92.1)
 - [1.21.90.3](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.90.3)
 - [1.21.81.2](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.81.2)
