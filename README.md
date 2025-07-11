@@ -22,4 +22,5 @@ The version sorting in Releases is not necessarily from newest to oldest. Below 
 - [1.21.23.01](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.23.01)
 - [1.21.2.02](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.2.02)
 - [1.21.1.03](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.1.03)
+- [1.21.0.03](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.0.03)
 - [1.16.100.04](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.16.100.04)
