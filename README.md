@@ -1,7 +1,7 @@
 # libminecraftpe.so-ida-analysis
 The i64 files in the releases need to be opened with **IDA9.0 or above**  
 
-The i64 files for Bedrock Dedicated Server and Windows Client are in [FloppyDolphin57's database](https://www.mediafire.com/folder/ammda8wfvbw9x/)
+The server's i64 files come from [FloppyDolphin57's database](https://www.mediafire.com/folder/ammda8wfvbw9x/), and you can download other versions of the server's i64 files from [FloppyDolphin57's database](https://www.mediafire.com/folder/ammda8wfvbw9x/)
 
 The version sorting in Releases is not necessarily from newest to oldest. Below are the Tags sorted from newest to oldest
 
@@ -23,4 +23,5 @@ The version sorting in Releases is not necessarily from newest to oldest. Below 
 - [1.21.2.02](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.2.02)
 - [1.21.1.03](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.1.03)
 - [1.21.0.03](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.0.03)
+- [1.20.81.01](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.20.81.01)
 - [1.16.100.04](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.16.100.04)
