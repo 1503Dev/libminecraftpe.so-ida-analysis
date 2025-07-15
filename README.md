@@ -5,6 +5,7 @@ The server's i64 files come from [FloppyDolphin57's database](https://www.mediaf
 
 The version sorting in Releases is not necessarily from newest to oldest. Below are the Tags sorted from newest to oldest
 
+- [1.21.94.1](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.94.1)
 - [1.21.93.1](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.93.1)
 - [1.21.92.1](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.92.1)
 - [1.21.90.3](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.90.3)
@@ -24,6 +25,7 @@ The version sorting in Releases is not necessarily from newest to oldest. Below 
 - [1.21.1.03](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.1.03)
 - [1.21.0.03](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.0.03)
 - [1.20.81.01](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.20.81.01)
+- [1.20.73.01](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.20.73.01)
 - [1.20.62.02](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.20.62.02)
 - [1.16.201.01](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.16.201.01)
 - [1.16.100.04](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.16.100.04)
