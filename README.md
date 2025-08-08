@@ -5,6 +5,7 @@ The server's i64 files come from [FloppyDolphin57's database](https://www.mediaf
 
 The version sorting in Releases is not necessarily from newest to oldest. Below are the Tags sorted from newest to oldest
 
+- [1.21.100.6](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.100.6)
 - [1.21.94.1](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.94.1)
 - [1.21.93.1](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.93.1)
 - [1.21.92.1](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.92.1)
