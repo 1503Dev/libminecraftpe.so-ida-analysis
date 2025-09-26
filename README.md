@@ -3,6 +3,8 @@ The i64 files in the releases need to be opened with **IDA9.0 or above**
 
 The server's i64 files come from [FloppyDolphin57's database](https://www.mediafire.com/folder/ammda8wfvbw9x/), and you can download other versions of the server's i64 files from [FloppyDolphin57's database](https://www.mediafire.com/folder/ammda8wfvbw9x/)
 
+[Minecraft-PE-Native-Function-Mapping-Table](https://github.com/TheChuan1503/Minecraft-PE-Native-Function-Mapping-Table) uses this repository
+
 The version sorting in Releases is not necessarily from newest to oldest. Below are the Tags sorted from newest to oldest
 
 - [1.21.101.01](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.101.01)
@@ -34,6 +36,8 @@ The version sorting in Releases is not necessarily from newest to oldest. Below 
 - [1.20.32.03](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.20.32.03)
 - [1.20.15.01](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.20.15.01)
 - [1.20.1.02](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.20.1.02)
+- [1.17.0.02](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.17.0.02)
+- [1.16.221.01](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.16.221.01)
 - [1.16.210.05](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.16.210.05)
 - [1.16.201.01](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.16.201.01)
 - [1.16.100.04](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.16.100.04)
