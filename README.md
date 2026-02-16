@@ -1,5 +1,5 @@
 # libminecraftpe.so-ida-analysis
-The i64 files in the releases need to be opened with **IDA9.0 or above**  
+The i64 files in the releases need to be opened with **IDA9.1 or above**  
 
 The server's i64 files come from [FloppyDolphin57's database](https://www.mediafire.com/folder/ammda8wfvbw9x/), and you can download other versions of the server's i64 files from [FloppyDolphin57's database](https://www.mediafire.com/folder/ammda8wfvbw9x/)
 
@@ -7,6 +7,7 @@ The server's i64 files come from [FloppyDolphin57's database](https://www.mediaf
 
 The version sorting in Releases is not necessarily from newest to oldest. Below are the Tags sorted from newest to oldest
 
+- [1.26.0.2](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.0.2)
 - [1.21.111.1](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.111.1)
 - [1.21.101.01](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.101.01)
 - [1.21.100.6](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.100.6)
