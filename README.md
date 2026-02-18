@@ -46,3 +46,4 @@ The version sorting in Releases is not necessarily from newest to oldest. Below 
 - [1.16.210.05](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.16.210.05)
 - [1.16.201.01](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.16.201.01)
 - [1.16.100.04](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.16.100.04)
+- [0.1.1](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/0.1.1)
