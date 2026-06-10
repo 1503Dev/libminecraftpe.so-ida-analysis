@@ -1,13 +1,29 @@
 # libminecraftpe.so-ida-analysis
-The i64 files in the releases need to be opened with **IDA9.1 or above**  
+该仓库中的 i64 文件需要使用 **IDA 9.1 或更高版本** 打开  
+__The i64 files in the releases need to be opened with **IDA9.1 or above**__  
 
-The server's i64 files come from [FloppyDolphin57's database](https://www.mediafire.com/folder/ammda8wfvbw9x/), and you can download other versions of the server's i64 files from [FloppyDolphin57's database](https://www.mediafire.com/folder/ammda8wfvbw9x/)
+服务端的 i64 文件来自 FloppyDolphin57 的数据库  
+__The server's i64 files come from FloppyDolphin57's database__  
+你也可以从 FloppyDolphin57 的数据库下载其他版本的服务端 i64 文件  
+__You can also download other versions of the server's i64 files from FloppyDolphin57's database__  
 
-[Minecraft-PE-Native-Function-Mapping-Table](https://github.com/TheChuan1503/Minecraft-PE-Native-Function-Mapping-Table) uses this repository
+Minecraft-PE 原生函数映射表使用了本仓库  
+__Minecraft-PE-Native-Function-Mapping-Table uses this repository__  
 
-The version sorting in Releases is not necessarily from newest to oldest. Below are the Tags sorted from newest to oldest
+自动化分析新版的 ELF（1.21.111 以上的，不包含 1.21.111）非常消耗算力  
+__Automatically analyzing newer versions of ELF (above 1.21.111, excluding 1.21.111) is very computationally expensive__  
+目前只能依靠服务器（低性能）的闲置算力执行分析  
+__Currently, it can only rely on the idle computing power of the server (low performance) to perform the analysis__  
+因此通常需要 1 到 3 周才能分析完一个 ELF  
+__Therefore, it usually takes 1 to 3 weeks to complete the analysis of a single ELF__  
 
-- [1.26.30.31](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.30.31)
+Releases 中的版本排序不一定是按从新到旧排列的  
+__The version sorting in Releases is not necessarily from newest to oldest__  
+以下为按从新到旧排序的标签  
+__Below are the Tags sorted from newest to oldest__  
+
+- [1.26.30.31-preview](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.30.31)
+- [1.26.23.1](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.23.1)
 - [1.26.0.2](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.0.2)
 - [1.21.111.1](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.111.1)
 - [1.21.101.01](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.101.01)
