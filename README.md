@@ -1,26 +1,26 @@
 # libminecraftpe.so-ida-analysis
 该仓库中的 i64 文件需要使用 **IDA 9.1 或更高版本** 打开  
-__The i64 files in the releases need to be opened with **IDA9.1 or above**__  
+_The i64 files in the releases need to be opened with **IDA9.1 or above**_  
 
-服务端的 i64 文件来自 FloppyDolphin57 的数据库  
-__The server's i64 files come from FloppyDolphin57's database__  
-你也可以从 FloppyDolphin57 的数据库下载其他版本的服务端 i64 文件  
-__You can also download other versions of the server's i64 files from FloppyDolphin57's database__  
+服务端的 i64 文件来自 [FloppyDolphin57's database](https://www.mediafire.com/folder/ammda8wfvbw9x/)  
+_The server's i64 files come from [FloppyDolphin57's database](https://www.mediafire.com/folder/ammda8wfvbw9x/)_  
+你也可以从 [FloppyDolphin57's database](https://www.mediafire.com/folder/ammda8wfvbw9x/) 下载其他版本的服务端 i64 文件  
+_You can also download other versions of the server's i64 files from [FloppyDolphin57's database](https://www.mediafire.com/folder/ammda8wfvbw9x/)_  
 
-Minecraft-PE 原生函数映射表使用了本仓库  
-__Minecraft-PE-Native-Function-Mapping-Table uses this repository__  
+[Minecraft-PE-Native-Function-Mapping-Table](https://github.com/TheChuan1503/Minecraft-PE-Native-Function-Mapping-Table) 使用了本仓库  
+_[Minecraft-PE-Native-Function-Mapping-Table](https://github.com/TheChuan1503/Minecraft-PE-Native-Function-Mapping-Table) uses this repository_  
 
 自动化分析新版的 ELF（1.21.111 以上的，不包含 1.21.111）非常消耗算力  
-__Automatically analyzing newer versions of ELF (above 1.21.111, excluding 1.21.111) is very computationally expensive__  
+_Automatically analyzing newer versions of ELF (above 1.21.111, excluding 1.21.111) is very computationally expensive_  
 目前只能依靠服务器（低性能）的闲置算力执行分析  
-__Currently, it can only rely on the idle computing power of the server (low performance) to perform the analysis__  
+_Currently, it can only rely on the idle computing power of the server (low performance) to perform the analysis_  
 因此通常需要 1 到 3 周才能分析完一个 ELF  
-__Therefore, it usually takes 1 to 3 weeks to complete the analysis of a single ELF__  
+_Therefore, it usually takes 1 to 3 weeks to complete the analysis of a single ELF_  
 
 Releases 中的版本排序不一定是按从新到旧排列的  
-__The version sorting in Releases is not necessarily from newest to oldest__  
+_The version sorting in Releases is not necessarily from newest to oldest_  
 以下为按从新到旧排序的标签  
-__Below are the Tags sorted from newest to oldest__  
+_Below are the Tags sorted from newest to oldest_  
 
 - [1.26.30.31-preview](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.30.31)
 - [1.26.23.1](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.23.1)
