@@ -10,8 +10,8 @@ _You can also download other versions of the server's i64 files from [FloppyDolp
 [Minecraft-PE-Native-Function-Mapping-Table](https://github.com/TheChuan1503/Minecraft-PE-Native-Function-Mapping-Table) 使用了本仓库  
 _[Minecraft-PE-Native-Function-Mapping-Table](https://github.com/TheChuan1503/Minecraft-PE-Native-Function-Mapping-Table) uses this repository_  
 
-自动化分析新版的 ELF（1.21.111 以上的，不包含 1.21.111）非常消耗算力  
-_Automatically analyzing newer versions of ELF (above 1.21.111, excluding 1.21.111) is very computationally expensive_  
+自动化分析新版的 ELF 非常消耗算力  
+_Automatically analyzing newer versions of ELF is very computationally expensive_  
 目前只能依靠服务器（低性能）的闲置算力执行分析  
 _Currently, it can only rely on the idle computing power of the server (low performance) to perform the analysis_  
 因此通常需要 1 到 3 周才能分析完一个 ELF  
@@ -25,6 +25,7 @@ _Below are the Tags sorted from newest to oldest_
 - [1.26.30.31-preview](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.30.31)
 - [1.26.23.1](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.23.1)
 - [1.26.0.2](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.0.2)
+- [1.21.113.1](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.113.1)
 - [1.21.111.1](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.111.1)
 - [1.21.101.01](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.101.01)
 - [1.21.100.6](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.100.6)
