@@ -2,9 +2,6 @@
 该仓库中的 i64 文件需要使用 **IDA 9.1 或更高版本** 打开  
 _The i64 files in the releases need to be opened with **IDA9.1 or above**_  
 
-根据 CC BY 许可证  
-_According to CC BY License_  
-
 服务端的 i64 文件来自 [FloppyDolphin57's database](https://www.mediafire.com/folder/ammda8wfvbw9x/)  
 _The server's i64 files come from [FloppyDolphin57's database](https://www.mediafire.com/folder/ammda8wfvbw9x/)_  
 你也可以从 [FloppyDolphin57's database](https://www.mediafire.com/folder/ammda8wfvbw9x/) 下载其他版本的服务端 i64 文件  
@@ -28,6 +25,7 @@ _Below are the Tags sorted from newest to oldest_
 - [1.26.30.31-preview](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.30.31)
 - [1.26.23.1](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.23.1)
 - [1.26.0.2](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.0.2)
+- [1.21.120.4](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.120.4)
 - [1.21.114.1](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.114.1)
 - [1.21.113.1](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.113.1)
 - [1.21.111.1](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.111.1)
