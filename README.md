@@ -25,6 +25,7 @@ _Below are the Tags sorted from newest to oldest_
 - [1.26.30.31-preview](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.30.31)
 - [1.26.23.1](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.23.1)
 - [1.26.0.2](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.0.2)
+- [1.21.131.1](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.131.1)
 - [1.21.120.4](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.120.4)
 - [1.21.114.1](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.114.1)
 - [1.21.113.1](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.113.1)
