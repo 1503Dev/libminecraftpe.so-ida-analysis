@@ -7,9 +7,6 @@ _The server's i64 files come from [FloppyDolphin57's database](https://www.media
 你也可以从 [FloppyDolphin57's database](https://www.mediafire.com/folder/ammda8wfvbw9x/) 下载其他版本的服务端 i64 文件  
 _You can also download other versions of the server's i64 files from [FloppyDolphin57's database](https://www.mediafire.com/folder/ammda8wfvbw9x/)_  
 
-[Minecraft-PE-Native-Function-Mapping-Table](https://github.com/TheChuan1503/Minecraft-PE-Native-Function-Mapping-Table) 使用了本仓库  
-_[Minecraft-PE-Native-Function-Mapping-Table](https://github.com/TheChuan1503/Minecraft-PE-Native-Function-Mapping-Table) uses this repository_  
-
 自动化分析新版的 ELF 非常消耗算力  
 _Automatically analyzing newer versions of ELF is very computationally expensive_  
 目前只能依靠服务器（低性能）的闲置算力执行分析  
@@ -22,6 +19,7 @@ _The version sorting in Releases is not necessarily from newest to oldest_
 以下为按从新到旧排序的标签  
 _Below are the Tags sorted from newest to oldest_  
 
+- [1.26.32.2](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.32.2)
 - [1.26.30.5](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.30.5)
 - [1.26.30.31-preview](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.30.31)
 - [1.26.23.1](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.23.1)
