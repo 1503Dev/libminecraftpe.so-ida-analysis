@@ -19,6 +19,7 @@ _The version sorting in Releases is not necessarily from newest to oldest_
 以下为按从新到旧排序的标签  
 _Below are the Tags sorted from newest to oldest_  
 
+- [1.26.33.1](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.33.1)
 - [1.26.32.2](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.32.2)
 - [1.26.30.5](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.30.5)
 - [1.26.30.31-preview](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.30.31)
