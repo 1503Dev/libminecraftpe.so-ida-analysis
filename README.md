@@ -27,6 +27,7 @@ _The version sorting in Releases is not necessarily from newest to oldest_
 _Below are the Tags sorted from newest to oldest_  
 
 
+- 1.26.40.5(Working in progress)
 - [1.26.33.1](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.33.1)
 - [1.26.32.2](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.32.2)
 - [1.26.30.5](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.30.5)
@@ -73,7 +74,7 @@ _Below are the Tags sorted from newest to oldest_
 - [1.20.32.03](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.20.32.03)
 - [1.20.15.01](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.20.15.01)
 - [1.20.1.02](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.20.1.02)
-- 1.19.83.01(Working in progress)
+- [1.19.83.01](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.19.83.01)
 - [1.18.32.02](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.18.32.02)
 - [1.18.0.02](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.18.0.02)
 - [1.17.41.01](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.17.41.01)
