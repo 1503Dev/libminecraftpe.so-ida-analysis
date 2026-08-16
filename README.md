@@ -7,26 +7,13 @@ _The server's i64 files come from [FloppyDolphin57's database](https://www.media
 你也可以从 [FloppyDolphin57's database](https://www.mediafire.com/folder/ammda8wfvbw9x/) 下载其他版本的服务端 i64 文件  
 _You can also download other versions of the server's i64 files from [FloppyDolphin57's database](https://www.mediafire.com/folder/ammda8wfvbw9x/)_  
 
-自动化分析新版的 ELF 非常消耗算力  
-_Automatically analyzing newer versions of ELF is very computationally expensive_  
-目前只能依靠服务器（低性能）的闲置算力执行分析  
-_Currently, it can only rely on the idle computing power of the server (low performance) to perform the analysis_  
-因此通常需要 1 到 3 周才能分析完一个 ELF 文件  
-_Therefore, it usually takes 1 to 3 weeks to complete the analysis of a single ELF file_  
-
-如果你没有足够的算力来完整地分析某个版本我的世界的 ELF/PE 文件
-你可以创建一个 issue，并提供目标完整版本名和处理器架构
-算力空闲时会自动执行你提交的分析，且不收取任何费用
-_If you don't have enough computing power to fully analyze the ELF/PE file of a specific version of Minecraft_
-_You can create an issue and provide the full target version name and processor architecture_
-_The analysis you submitted will be automatically executed when computing power is available, and no fees will be charged_
-
 Releases 中的版本排序不一定是按从新到旧排列的  
 _The version sorting in Releases is not necessarily from newest to oldest_  
 以下为按从新到旧排序的标签  
 _Below are the Tags sorted from newest to oldest_  
 
 
+- [1.26.44.3](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.44.3)
 - [1.26.40.5](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.40.5)
 - [1.26.33.1](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.33.1)
 - [1.26.32.2](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.32.2)
