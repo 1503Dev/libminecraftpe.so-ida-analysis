@@ -1,4 +1,4 @@
-# libminecraftpe.so-ida-analysis
+# minecraft-ida-database
 该仓库中的 i64 文件需要使用 **IDA 9.1 或更高版本** 打开  
 _The i64 files in the releases need to be opened with **IDA9.1 or above**_  
 
@@ -14,7 +14,8 @@ _Below are the Tags sorted from newest to oldest_
 
 
 - [1.26.44.3](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.44.3)
-- [1.26.40.5](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.40.5)
+- [1.26.40.5](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.40.5)  
+  [1.26.4005.0 (Windows)](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.40.05)
 - [1.26.33.1](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.33.1)
 - [1.26.32.2](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.32.2)
 - [1.26.30.5](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.30.5)
